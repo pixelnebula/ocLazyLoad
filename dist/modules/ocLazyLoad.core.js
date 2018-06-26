@@ -385,6 +385,8 @@
 
                 _$log: $log,
 
+                modulePromises: modulePromises,
+
                 /**
                  * Returns the files cache used by the loaders to store the files currently loading
                  * @returns {*}

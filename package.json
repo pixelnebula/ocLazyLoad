@@ -1,11 +1,11 @@
 {
   "name": "oclazyload",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Load modules on demand (lazy load) with angularJS",
   "main": "dist/ocLazyLoad.js",
   "author": "Olivier Combe <olivier.combe@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/ocombe/ocLazyLoad",
+  "homepage": "https://github.com/pixelnebula/ocLazyLoad",
   "directories": {
     "example": "examples"
   },
